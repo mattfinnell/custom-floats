@@ -1,4 +1,5 @@
-CC= cc
-DEPS= custom_floats.c main.c custom_floats.h
+CC=cc
+DEPS= custom_floats.c main.c 
+
 floats: $(DEPS)
-	$(CC) $? -o $@
+	@ $(CC) -g $? -o $@
