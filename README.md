@@ -12,7 +12,7 @@ Open a shell and run the following
 
 ```sh
 # Download project
-git clone https://github.com/mattfinnell/customFloats 
+git clone https://github.com/mattfinnell/custom-floats
 
 # Move into project directory
 cd customFloats
