@@ -8,7 +8,7 @@
 
 ## Using this
 
-Copy-paste the following into a shell
+Open a shell and run the following
 
 ```sh
 # Download project
