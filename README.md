@@ -10,7 +10,7 @@
 
 Copy-paste the following into a shell
 
-```
+```sh
 # Download project
 git clone https://github.com/mattfinnell/customFloats 
 
